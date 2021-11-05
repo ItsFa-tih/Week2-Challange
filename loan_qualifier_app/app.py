@@ -2,7 +2,7 @@
 """Loan Qualifier Application.
 
 This is a command line application to match applicants with qualifying loans.
-
+Second commit test through terminal
 Example:
     $ python app.py
 """
