@@ -1,0 +1,259 @@
+  281  vim ~/.bash_profile
+  282  conda activate dev
+  283  conda3 activate dev
+  284  export PATH=/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+  285  vim ~/.bash_profile
+  286  vim ~/.bash_profile
+  287  export PATH=/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+  288  vim ~/.bash_profile
+  289  export PATH=/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+  290  vim ~/.bash_profile
+  291  export PATH=/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+  292  vim ~/.bash_profile
+  293  export PATH=/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+  294  export PATH=/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+  295  /usr/local/bin/python3 /Users/fatihezgin/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  296  pwd
+  297  cd ..
+  298  cd 01_cd 01_modularize_your_loan_qualifier_application_part_2
+  299  cd 01_modularize_your_loan_qualifier_application_part_2
+  300  cd unsolved
+  301  /usr/local/bin/python3 /Users/fatihezgin/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  302  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  303  pip3 install Pandas
+  304  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  305  source /Users/fatihezgin/opt/anaconda3/bin/activate
+  306  conda activate base
+  307  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  308  pip install Pandas
+  309  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  310  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  311  pwd
+  312  cd ..
+  313  cd ..
+  314  pwd
+  315  cd Desktop
+  316  cd Fintech-Workspace
+  317  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  318  source /Users/fatihezgin/opt/anaconda3/bin/activate
+  319  conda activate base
+  320  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  321  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  322  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  323  source /Users/fatihezgin/opt/anaconda3/bin/activate
+  324  conda activate base
+  325  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  326  cd ~
+  327  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  328  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  329  source /Users/fatihezgin/opt/anaconda3/bin/activate
+  330  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  331  conda activate base
+  332  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  333  source /Users/fatihezgin/opt/anaconda3/bin/activate
+  334  conda activate base
+  335  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  336  pwd
+  337  cd ~
+  338  cd Fintech-Workspace
+  339  cd Desktop
+  340  cd Fintech-Workspace
+  341  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  342  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  343  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  344  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  345  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  346  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  347  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  348  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  349  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  350  source /Users/fatihezgin/opt/anaconda3/bin/activate
+  351  conda activate base
+  352  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  353  cd ..
+  354  cd ..
+  355  cd desktop
+  356  cd Fintech-Workspace
+  357  conda activate dev
+  358  conda3 activate dev
+  359  conda info --envs
+  360  conda activate dev
+  361  pip install Pandas
+  362  source /Users/fatihezgin/opt/anaconda3/bin/activate
+  363  conda activate base
+  364  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  365  cd ..
+  366  cd ..
+  367  cd desktop
+  368  cd Fintech-Workspace
+  369  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  370  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  371  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  372  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  373  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  374  pwd
+  375  cd ..
+  376  cd downloads
+  377  cd ..
+  378  cd downloads
+  379  cd 01_missing_money
+  380  cd unsolved
+  381  cd ..
+  382  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  383  source /Users/fatihezgin/opt/anaconda3/bin/activate
+  384  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  385  conda activate base
+  386  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  387  cd ..
+  388  cd ..
+  389  cd desktop
+  390  cd fintech-exercises
+  391  ls
+  392  cd fintech-workspace
+  393  ls
+  394  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  395  /Users/fatihezgin/opt/anaconda3/bin/python /Users/fatihezgin/Desktop/Fintech-Workspace/exercises.py
+  396  pwd
+  397  ls
+  398  cs desktop
+  399  cd desktop
+  400  ls
+  401  cd fintech-workspace
+  402  ls
+  403  cd ..
+  404  ls
+  405  cd weekly-challanges
+  406  cd weekly_challanges
+  407  ls
+  408  ==cd week 2 - challange
+  409  cd week_2-challange
+  410  	
+  411  ls
+  412  cd week2-challange
+  413  ls
+  414  pwd
+  415  cd wee2-challange
+  416  cd week2-challange
+  417  cd Week2-Challange
+  418  cd Week2 - Challange
+  419  pws
+  420  pws
+  421  pwd
+  422  cd week2-challange
+  423  cd Week2-Challange
+  424  cd Week2-Challange
+  425  git init
+  426  git status
+  427  gid add loan_qualifier
+  428  git add loan_qualifier
+  429  git add loan_qualifier_app
+  430  git status
+  431  git push
+  432  git remote add https://github.com/ItsFa-tih/Weekly-Challanges
+  433  git --mirror https://github.com/ItsFa-tih/Week2-Challange.git
+  434  git remote add origin https://github.com/ItsFa-tih/Week2-Challange.git
+  435  git status
+  436  git push
+  437  git push -u origin main
+  438  git push -u origin 
+  439    git push --set-upstream origin master
+  440    git push --set-upstream origin master
+  441  git push --set-upstream origin master
+  442  git commit --M Init
+  443  git commit -a
+  444  pwd
+  445  cd weekly-challanges
+  446  ls
+  447  cd desktop
+  448  cd weekly-challanges
+  449  ls
+  450  cd weekly-challanges
+  451  git clone https://github.com/ItsFa-tih/Week2-Challange.git
+  452  git status
+  453  pwd
+  454  cd week2-challange
+  455  git status
+  456  git add loan_qualifier_app
+  457  git status
+  458  git push 
+  459  git commit -m "Initial Commit"
+  460  git push
+  461  git commit - " Second commit test through terminal" 
+  462  git commit -m " Second commit test through terminal" 
+  463  git push
+  464  git commit -m " Second commit test through terminal" 
+  465  git add loan_qualifier_app
+  466  git status
+  467  git commit -m " Second commit test through terminal" 
+  468  git push
+  469  pip install fire
+  470  pip install questionary
+  471  cd desktop
+  472  cd desktop
+  473  ls
+  474  cd weekly-challanges
+  475  ls
+  476  cd week2-challange
+  477  ls
+  478  git status
+  479  git commit -a
+  480  cd desktop
+  481  cd weekly-challanges
+  482  cd week2-challange
+  483  git status
+  484  git add loan_qualifier_app
+  485  git statys
+  486  git status
+  487  git push -m " Added a prompt to save export path for qualified loans"
+  488  git push
+  489  git status
+  490  git push 
+  491  pwd
+  492  ls
+  493  git diff
+  494  git diff
+  495  git push 
+  496  pwd
+  497  git status
+  498  git commit -m "added a prompt to save qualified loans""
+git push
+ 
+
+
+
+
+pwd
+exit
+
+  499  git push
+  500  git push origin master
+  501  git status
+  502  git --helo
+  503  git --help
+  504  ls -remote
+  505  git push loan_qualifier_app
+  506  git push week2-challange
+  507  git push
+  508  git status
+  509  git remote add loan_qualifier_app
+  510  pwd
+  511  cd ..
+  512  git push
+  513  cd week2-challanges
+  514  cd week2-challange
+  515  git commit -m "added a prompt"
+  516  git push
+  517  git commit -m " added more comments for better readability"
+  518  git commit -a
+  519  git add -a
+  520  git add readme.md
+  521  git add loan_qualifier_app
+  522  git add .DS_Store
+  523  git status
+  524  git add README.md
+  525  git status
+  526  git push
+  527  git commit -m "added more comments for better usability" 
+  528  git push
+  529  history 50 > terminal_history.txt
+  530  history 250 > terminal_history.txt
