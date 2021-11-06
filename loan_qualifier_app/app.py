@@ -31,7 +31,7 @@ def load_bank_data():
     Returns:
         The bank data from the data rate sheet CSV file.
     """
-
+    
     csvpath = questionary.text("Enter a file path to a rate-sheet (.csv):").ask()
     csvpath = Path(csvpath)
     if not csvpath.exists():
@@ -109,9 +109,11 @@ def save_qualifying_loans(qualifying_loans):
         qualifying_loans (list of lists): The qualifying bank loans.
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
-    
+    # Displaying a message for user to enter rate sheet file and assigning it to a variable 
     save_path=questionary.text("Enter path to save list of qualifying loans").ask()
+    #Assigning to path and the new file name into a new variable for csx writer function. 
     new_file_name= os.path.join(save_path,"qualifying_loans.csv")
+    #Creating the csv file
     with open(new_file_name, "w", newline='') as csvfile:
         #Creating writer object 
         csvwriter=csv.writer(csvfile)
